@@ -1,0 +1,14 @@
+teste 1
+[peca(quadrado,amarelo),peca(circulo,vermelho),peca(triangulo,azul),peca(triangulo,vermelho),peca(triangulo,amarelo),peca(circulo,azul),peca(quadrado,azul),peca(circulo,amarelo),peca(quadrado,vermelho)]
+
+teste 2
+[peca(circulo,amarelo),peca(quadrado,amarelo),peca(triangulo,amarelo),peca(triangulo,vermelho),peca(circulo,azul),peca(quadrado,azul),peca(circulo,vermelho),peca(quadrado,vermelho),peca(triangulo,azul)]
+
+teste 3
+[peca(circulo,amarelo),peca(triangulo,amarelo),peca(quadrado,azul),peca(triangulo,vermelho),peca(quadrado,amarelo),peca(circulo,vermelho),peca(circulo,azul),peca(triangulo,azul),peca(quadrado,vermelho)]
+
+teste 4
+[peca(triangulo,azul),peca(triangulo,vermelho),peca(circulo,azul),peca(triangulo,amarelo),peca(quadrado,amarelo),peca(circulo,amarelo),peca(quadrado,vermelho),peca(quadrado,azul),peca(circulo,vermelho)]
+
+teste 5
+[peca(circulo,azul),peca(triangulo,azul),peca(quadrado,amarelo),peca(circulo,vermelho),peca(triangulo,vermelho),peca(quadrado,azul),peca(quadrado,vermelho),peca(triangulo,amarelo),peca(circulo,amarelo)]
